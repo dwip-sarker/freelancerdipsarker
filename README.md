@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @freelancerdipsarker
+- 👋 Hi, I’m Dip Sarker
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning bootstrap.
+- 🌱 I’m currently learning Express.
 - 💞️ I’m looking to collaborate on beginner developer.
 - 📫 I’m on facebook & instagram. You can knock me.
 
